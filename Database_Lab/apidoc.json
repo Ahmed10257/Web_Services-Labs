@@ -1,0 +1,8 @@
+{
+  "name": "Glasses API",
+  "version": "1.0.0",
+  "description": "API for Glasses",
+  "title": "Glasses API",
+  "url": "http://localhost:3000",
+  "sampleUrl": true
+}

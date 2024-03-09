@@ -1,0 +1,19 @@
+{
+  "autoload": {
+    "files": [
+      "config.php"
+    ],
+    "classmap": [
+      "classes"
+    ]
+  },
+  "require": {
+    "illuminate/database": "^10.47",
+    "php2wsdl/php2wsdl": "^0.7.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "kylekatarnls/update-helper": true
+    }
+  }
+}
